@@ -1,4 +1,5 @@
 # HBD Robot
+<img width="619" height="645" alt="screenshot" src="https://github.com/user-attachments/assets/92c2be9e-114b-40d3-bcd8-69e76d7e89df" />
 
 A cyberpunk-themed, browser-based 3D hacking game where you play as a sentient robot navigating through a high-security corporate network on a mission to uncover the mysterious "Iceberg Protocol."
 
